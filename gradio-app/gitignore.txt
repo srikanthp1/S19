@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.idea
+gradio_cached_examples
